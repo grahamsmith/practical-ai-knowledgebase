@@ -17,6 +17,8 @@ This knowledge vault is organized into the following categories:
 
 We encourage everyone to contribute to this knowledge base! There are two main ways to participate:
 
+> 💡 **See our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed contribution guidelines.**
+
 ### 1. 🙋 Raise Issues for Topics You Want to Learn About
 
 Have questions or want to know more about a specific AI topic? **[Open an issue](../../issues/new)** to:
